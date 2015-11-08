@@ -1,1 +1,0 @@
-Packages for errors management. At the moment is basic but I will be improved it.
